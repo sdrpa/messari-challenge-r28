@@ -1,4 +1,5 @@
-# messari-challenge-r28
+# messari-challenge-r28 
+https://resonant-zipper-d74.notion.site/Messari-Market-Data-Coding-Challenge-rev-28-Feb-2022-e513357eaeb34b9a9ab9805af37d96b0
 
 Created and tested on Ubuntu 20.04.4 LTS; Swift version 5.3.3 (swift-5.3.3-RELEASE)
 
@@ -13,6 +14,7 @@ swift build -c release
 {"market":8904,"total_volume":225517.71714570865,"mean_price":12.513763150787097,"mean_volume":2592.1576683414787,"volume_weighted_average_price":18021.574679677706,"percentage_buy":1.0}
 {"market":10475,"total_volume":216035.85251258593,"mean_price":23.48986859635097,"mean_volume":2483.1707185354703,"volume_weighted_average_price":9196.980035305349,"percentage_buy":0.0}
 ...
+
 It took: 124.68546078300096 secs.
 
 ### Measure messari-challenge-r28 performance
