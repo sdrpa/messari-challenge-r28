@@ -1,0 +1,8 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+output.txt
+stdoutinator_amd64_linux.bin
+
